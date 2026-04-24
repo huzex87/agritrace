@@ -356,11 +356,7 @@ export default function LandingPage() {
               </div>
             </div>
             <div className="flex items-center gap-4 text-xs">
-              <span>Built by <span className="text-gray-500 font-medium">Huzex Lab</span></span>
-              <span className="text-gray-200">·</span>
-              <span>Kirkira Innovation Hub</span>
-              <span className="text-gray-200">·</span>
-              <span>iDICE Startup Bridge 2026</span>
+              <span>© 2026 AgriTrace. All rights reserved.</span>
             </div>
           </div>
         </div>
